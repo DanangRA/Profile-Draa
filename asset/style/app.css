@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3 100%);
+}
+.danang {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.danang.png {
+    width: 200px;
+}
+.danang h2 {
+    color: white;
+}
+.danang h5 {
+    color: white;
+    transform: translateY(-10px);
+}
+.biodata {
+    background: linear-gradient(#ffffff 0%, #ffffffd5 40%, #fdfdfd00 100%);
+    padding-bottom: 200px;
+}
+.footer {
+    background-color: white;
+    padding-bottom: 20px;
+}
+.contact a {
+    color: black;
+    font-size: 30px;
+    
+}
+.watermark {
+    padding-top: 50px;
+}
+.biodata {
+    padding-top: 55px;
+}
+.row {
+    padding-top: 35px;
+}
